@@ -1,8 +1,11 @@
 # UG-Project-Farhan
 UG Project Farhan Habibie 
 
-The code in this repository is the code for XGBoost, GRNN and ARIMA for economic forecasting.
+This repository contains the code and files for univariate and multivariate economic forecasting using XGBoost, GRNN, ARIMA and VARMA.
 
-Code has been written in python on the Jupyter Notebooks IDE. The reason for Jupyter Notebooks is because its easy to run code in blocks to see each step.
+Included in this repository is the dataset used (Indonesia Macroeconomic Indicators), to create
+the forecasts.
 
-Will update readme as development comes along.
+Code has been written in python using Jupyter Notebooks as the IDE. The reason for Jupyter Notebooks is because its easy to run code in blocks to see each step.
+
+The repository was created for my Individual Project at City, University of London. The objective of the project was to compare performance of ML against traditional time series forecasting techniques, using Indonesia as a case study.
